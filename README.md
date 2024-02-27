@@ -1,13 +1,12 @@
-<img src ="https://github.com/ShashankGupta10/ShashankGupta10/assets/117008526/89329af3-82b4-46cd-ad58-0733561909ab">
 <h1 align="center">Hi 👋, I'm Sujal Gandhi</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <div align=center>
- <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=SHASHANK+GUPTA...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
+ <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=SUJAL+GANDHI...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
 </div>
 
 <img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
-- 🔭 I’m currently working on [Stonks](https://stonks-shashank-gupta.vercel.app)
+- 🔭 I’m currently working on myself
 
 - 🌱 I’m currently learning **Deep Learning with Tensorflow**
 
@@ -15,7 +14,7 @@
 
 - 💬 Ask me about **The MERN stack**.
 
-- 📫 How to reach me **shashankgupta9248@gmail.com**
+- 📫 How to reach me **sujalgandhi786@gmail.com**
 
 - 📄 Know about my Projects [Resume](https://drive.google.com/file/d/1OwQLrLuG96KqCQNmgdotov4E4u__gpl2/view?usp=sharing)
 
@@ -25,7 +24,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/shashank._gupta_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/shashankgupta10) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/shashank_@18_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sujalgandhi63) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/shashankgupta10) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/shashank_@18_)
 </br>
 
 <h2 align="left"> 📌 Tech Stack:</h2>
