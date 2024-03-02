@@ -4,13 +4,17 @@
  <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=SUJAL+GANDHI...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
 </div>
 
-<img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
+<div align="center">
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="mario" />
+</div>
 
-- 🔭 I’m currently working on myself
+<div>
+ 
+- 🔭 I’m currently working on new projects!
 
-- 🌱 I’m currently learning **Deep Learning with Tensorflow**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Github](github.com/ShashankGupta10)
+- 👨‍💻 All of my projects are available at [Github](github.com/Sujal366)
 
 - 💬 Ask me about **The MERN stack**.
 
@@ -18,16 +22,15 @@
 
 - 📄 Know about my Projects [Resume](https://drive.google.com/file/d/1OwQLrLuG96KqCQNmgdotov4E4u__gpl2/view?usp=sharing)
 
-- ⚡ Fun fact **I am Funny**
+</div>
 
 </br>
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sujalgandhi63) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/shashankgupta10) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/shashank_@18_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/sujalgandhi63) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sujalgandhi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/sujalgandhi63)
 </br>
 
-<h2 align="left"> 📌 Tech Stack:</h2>
 </br>
 <div display="flex">
 <h2 align="left"> ⚡ Languages and Libraries:</h2>
@@ -37,7 +40,7 @@
 <img src = "https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src = "https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img src = "https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img src = "https://img.shields.io/badge/Tensorflow-%23150458.svg?style=for-the-badge&logo=tensorflow&logoColor=orange">
+
 
 
 </div>
@@ -47,12 +50,8 @@
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
  <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
- <img src ="https://img.shields.io/badge/ejs-%23323330.svg?style=for-the-badge&logo=ejs&logoColor=yellow" align="center" alt="ejs">
  <img src ="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue&Color=black" align="center" alt="ejs">
  <img src = "https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="css3">
- <img src="https://img.shields.io/badge/Material UI-%23000000.svg?style=for-the-badge&logo=mui&logoColor=#00C7B7&color=red" align="center" alt="git"/>
- <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=#00C7B7&color=red" align="center" alt="git"/>
- <img src="https://img.shields.io/badge/Tailwind CSS-%23000000.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=#00C7B7&color=red" align="center" alt="git"/>
 </div>
 </br>
  <div ><h3> 👾 BackEnd: </h3> 
@@ -61,7 +60,6 @@
    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
    <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongoose"/>
    <img src="https://img.shields.io/badge/Bcrypt JS-4EA94B?style=for-the-badge&logo=bcryptjs&logoColor=white&color=blue" align="center" alt="bcrypt"/>
-   <img src="https://img.shields.io/badge/Passport.js-4EA94B?style=for-the-badge&logo=passport&logoColor=white&color=blue" align="center" alt="passport"/>
    <img src="https://img.shields.io/badge/Flask-4EA94B?style=for-the-badge&logo=Flask&logoColor=white&color=green" align="center" alt="passport"/>
  </div>
 </br>
@@ -83,15 +81,13 @@
  </br>
  </br>
  
-<!-- ## 📊 GitHub Stats:
+ ## 📊 Leetcode Stats:
 </br>
-<div><img src = "https://github-readme-stats.vercel.app/api?username=ShashankGupta10&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false"><br/></br>
-<img src ="https://github-readme-streak-stats.herokuapp.com/?user=ShashankGupta10&theme=shades-of-purple&hide_border=false"><br/></br>
-<img src ="https://leetcard.jacoblin.cool/ShashankGupta10?ext=activity"><br/></br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankGupta10&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></div>
+<div>
+<img src ="https://leetcard.jacoblin.cool/sujalgandhi?ext=activity"><br/></br>
 </br>
 
-## 🔝 Top Contributed Repo
+<!-- ## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=ShashankGupta10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
