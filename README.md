@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sujalgandhi786@gmail.com**
 
-- 📄 Know about my Projects [Resume](https://drive.google.com/file/d/1OwQLrLuG96KqCQNmgdotov4E4u__gpl2/view?usp=sharing)
+- 📄 Know about my Projects [Resume]([https://drive.google.com/file/d/1OwQLrLuG96KqCQNmgdotov4E4u__gpl2/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1h4dFG6UsnXUxSziaKoBDsXX_C4gd6cu_))
 
 </div>
 
