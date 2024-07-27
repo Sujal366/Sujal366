@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Github](github.com/Sujal366)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Sujal366)
 
 - 💬 Ask me about **The MERN stack**.
 
