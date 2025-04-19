@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujal Gandhi</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <div align=center>
- <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=SUJAL+GANDHI...;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
+ <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=SUJAL+GANDHI...;FULL+STACK+WEB+DEVELOPER;AI+AGENTS;MACHINE+LEARNING;&color=cyan&center=true" />
 </div>
 
 <div align="center">
@@ -12,15 +12,15 @@
  
 - 🔭 I’m currently working on new projects!
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **AI Agents**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Sujal366)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Sujal366?tab=repositories)
 
-- 💬 Ask me about **The MERN stack**.
+- 💬 Ask me about **MY HOMELAB SERVER**.
 
 - 📫 How to reach me **sujalgandhi786@gmail.com**
 
-- 📄 Know about my Projects [Resume](https://drive.google.com/file/d/106mx11paxg06C3yu3f_082tlqUT9mF6Q/view?usp=drive_link)
+- 📄 Know about my Projects [Resume](https://drive.google.com/file/d/1pQTGI5YMz1cxdnxmxOLTn25nQdenRB2v/view?usp=drive_link)
 
 </div>
 
