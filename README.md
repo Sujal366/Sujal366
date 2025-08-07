@@ -10,7 +10,7 @@
 
 <div>
  
-- 🔭 I’m currently working on new projects!
+- 🔭 Check out my [portfolio](https://profile.sujalgandhi.me)
 
 - 🌱 I’m currently learning **AI Agents**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sujalgandhi786@gmail.com**
 
-- 📄 Know about my Projects [Resume](https://drive.google.com/file/d/1pQTGI5YMz1cxdnxmxOLTn25nQdenRB2v/view?usp=drive_link)
+- 📄 Know about my [Projects](https://profile.sujalgandhi.me/#portfolio)
 
 </div>
 
@@ -52,8 +52,8 @@
  <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
  <img src ="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue&Color=black" align="center" alt="ejs">
  <img src = "https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="css3">
-  <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=#00C7B7&color=red" align="center" alt="git"/>
- <img src="https://img.shields.io/badge/Tailwind CSS-%23000000.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=#00C7B7&color=red" align="center" alt="git"/>
+  <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=#00C7B7&color=red" align="center" alt="nextjs"/>
+ <img src="https://img.shields.io/badge/Tailwind CSS-%23000000.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=#00C7B7&color=red" align="center" alt="git"/>
 </div>
 </br>
  <div ><h3> 👾 BackEnd: </h3> 
@@ -68,6 +68,11 @@
 <div ><h3> 👨‍💻 Databases: </h3> 
    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black">
+ </div>
+ </br>
+<div ><h3> 📱 Mobile: </h3> 
+   <img src="https://img.shields.io/badge/Expo-%234ea94b.svg?style=for-the-badge&logo=expo&logoColor=white&color=black" />
+   <img src="https://img.shields.io/badge/React Native-%2300f.svg?style=for-the-badge&logo=react-native&logoColor=white&color=blue">
  </div>
  </br>
    <div ><h3> ⚓️ Tools: </h3> 
